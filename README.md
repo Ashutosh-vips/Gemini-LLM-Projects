@@ -7,11 +7,11 @@ Projects<br>
 ![ATS2](Assets/ATS2.png)
 This project aims to automate the resume screening process for Applicant Tracking Systems (ATS). It leverages the Gemini API to extract relevant information from resumes, such as work experience, skills, and educational qualifications. The extracted data can be used to rank and filter candidates based on predefined criteria.<br>
 **2. Invoice Extractor**
-![IE](Assets\Inv_ext.png)
-![IE2](Assets\inv_ext2.png)
+![IE](Assets/Inv_ext.png)
+![IE2](Assets/inv_ext2.png)
 The Invoice Extractor project uses the Gemini API to extract key information from invoices, such as vendor details, invoice number, date, total amount, and line items. This can streamline the invoice processing workflow and improve data accuracy.<br>
 **3. Multiple PDF Question Answering**
-![PDF](Assets\PDF_Q&A.png)
+![PDF](Assets/PDF_Q&A.png)
 This project demonstrates how to use the Gemini API to ask questions and receive answers based on the content of multiple PDF documents. It can be useful for research, legal document analysis, or any scenario where information needs to be extracted from a collection of PDF files.<br>
 **4. Text to SQL Query**
 The Text to SQL Query project leverages the Gemini API to convert natural language questions or prompts into SQL queries. This can be beneficial for building conversational interfaces for database exploration or building tools that simplify the process of writing SQL queries.<br>
