@@ -3,6 +3,7 @@
 This repository contains various projects that utilize the Google Gemini API for natural language processing tasks. The projects cover a range of applications, including resume screening, invoice extraction, question answering for multiple PDFs, and text-to-SQL query conversion.
 Projects<br>
 **1. ATS Resume Screening**
+![Gemini Logo](Assets/ATS1.png)
 This project aims to automate the resume screening process for Applicant Tracking Systems (ATS). It leverages the Gemini API to extract relevant information from resumes, such as work experience, skills, and educational qualifications. The extracted data can be used to rank and filter candidates based on predefined criteria.<br>
 **2. Invoice Extractor**
 The Invoice Extractor project uses the Gemini API to extract key information from invoices, such as vendor details, invoice number, date, total amount, and line items. This can streamline the invoice processing workflow and improve data accuracy.<br>
