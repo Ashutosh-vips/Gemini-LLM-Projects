@@ -1,0 +1,2 @@
+faiss-cpu
+langchain_google_genai
